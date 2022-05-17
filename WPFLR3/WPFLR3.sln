@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFLR3", "WPFLR3.csproj", "{AB756289-04D0-4DA2-ADC7-43751D91F7EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB756289-04D0-4DA2-ADC7-43751D91F7EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB756289-04D0-4DA2-ADC7-43751D91F7EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB756289-04D0-4DA2-ADC7-43751D91F7EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB756289-04D0-4DA2-ADC7-43751D91F7EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEF4E5EA-4065-4B8C-8DE1-C0FF18880F49}
+	EndGlobalSection
+EndGlobal
